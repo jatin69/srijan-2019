@@ -15,5 +15,5 @@ S.No | Name of Article | Editor Assigned | Status |
 11 |Air Taxis | Shruti Katyal | Reviewed once. Editing required
 12|GANs|Ronak Aggarwal| On it.
 13| Large Primes| Swati Gautam | Will review by 12 tonight.
-14 | Tor Working | Shruti Katiyal | on it.
+14 | Tor Working | Shruti Katiyal | Reviewed. Review required- Ashita.
 
