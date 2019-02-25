@@ -11,7 +11,7 @@ S.No | Name of Article | Editor Assigned | Status |
 7 | Darkweb | Swati Gautam | Reviewed. Review Required - Jatin
 8 | Slow Loris Attack | Swati Gautam |Reviewed.
 9 | Social Media- Preacher or Breacher | Shruti Katyal | (Title to be reviewed)
-10 | Debunking the Fabricated | Shruti Katyal | Reviewed. Opinion required - Ashita. Definition to be updated(By Writer)
+10 | Debunking the Fabricated | Shruti Katyal | Reviewed. Definition to be updated(By Writer)
 11 |Air Taxis | Shruti Katyal | Reviewed once. Editing required
 12|GANs|Ronak Aggarwal| On it.
 13| Large Primes| Swati Gautam | Will review by 12 tonight.
