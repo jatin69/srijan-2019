@@ -5,7 +5,7 @@
 Question | Answer |
 --- | --- |
 Writer |  Mayank Khandelwal - MSc I year
-Editor | Swati Gautam - MSc I year, Vipin K Jonwal - MCA II year
+Editor | Vipin K Jonwal - MCA II year , Swati Gautam - MSc I year
 Status |	Reviewed once. Waiting for checks to be verified. Will review again.
 Plagiarism |	None.  100% unique. [Report Link](./plag-reports/plag-large-primes-v1.pdf)
 Verdict | Good Candidate. 
