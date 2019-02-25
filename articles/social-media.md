@@ -6,7 +6,6 @@ Writer | Sunidhi Sharma - MCA I year
 Editor | Shruti Katyal
 Status |	Reviewed once. A second opinion required.
 Plagiarism |	None.  100% unique. [Report Link](./plag-reports/plag-social-media-v1.pdf)
-Added | Sub-headings. Changed the structure.
 Content |	Privacy concern - revealing facts - conclusion
 Verdict | Good Candidate. 
 ---
