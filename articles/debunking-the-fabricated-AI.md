@@ -3,21 +3,29 @@
 ---
 Question ? | Answer ! |
 --- | --- |
-writer | Swati Gautam - MSc 1st year
+writer | Swati Gautam - MSc 1st year|
+editor | Shruti Katyal |
+content | what is AI - misconceptions - myths - conclusion |
+plagiarism | 5%. [Report Link] (./plag-reports/plag-debunking-the- fabricated-AI-v1.pdf.) 
 ---
 
 Artificial Intelligence. If you're not living under a rock you must have heard of this term. And if
 you do know, you must be fascinated by it. After all, the words say it all. In layman's term -
 intelligence that has been created.
+
 A simple google search will come up with hundreds of articles, books, media, movies devoted to
 it. And images. ​Abundant ​ images.
+
 Neurons firing, robots thinking, code pouring down a screen and if you're lucky you might as
 well find " The Terminator " buried somewhere in there.
+
 But is this how we define AI? An omnipotent robot? Or is it just something Hollywood fancies us
 to buy?
+
 Perhaps, it is easier to connect to an audience via these clichés. But do we need them today? In
 the age of Alexa, Cortana, face detection in mobile phones and Google Maps, do we really
 require false depiction of AI?
+
 This is how Wikipedia defines AI.
 " Artificial intelligence (AI) is intelligence demonstrated by machines, in contrast to the natural
 intelligence displayed by humans and other animals. Colloquially, the term 'artificial intelligence'
@@ -29,7 +37,8 @@ No. AI is any machine that has the property of exhibiting intelligence, performi
 are an essence of human intelligence.
 Sure, a robot does employ concepts of AI, but the keyword is "use".
 A machine that can recognise images is AI, perhaps limited in its scope but nevertheless - AI.
-2. AI = Machine LearningMachine Learning(ML) is a subset of AI. Machine Learning is only a means of achieving AI. A
+2. AI = Machine Learning .
+Machine Learning(ML) is a subset of AI. Machine Learning is only a means of achieving AI. A
 faster, smarter, efficient way.
 If we had to create a program that recognises trees from a photo, we could possibly write it in
 code.
