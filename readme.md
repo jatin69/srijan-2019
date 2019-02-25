@@ -11,5 +11,5 @@ S.No | Name of Article | Editor Assigned | Status |
 7 | Darkweb | Swati Gautam | Reviewed.
 8 | Slow Loris Attack | Swati Gautam |Reviewd.
 9 | Social Media- Preacher or Breacher | Shruti Katyal | (Title to be reviewed)
-10 | Debunking the Fabricated | Shruti Katyal | Will be done by tonight
-11 |Air Taxis | Shruti Katyal | Will be done by tonight
+10 | Debunking the Fabricated | Shruti Katyal | Reviewed once. Changes in definition (To be updated by writer)
+11 |Air Taxis | Shruti Katyal | Waiting from the writer(Will be done by today)
