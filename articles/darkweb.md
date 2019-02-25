@@ -47,6 +47,6 @@ Key findings from the research include:
 
 >Interestingly, 39% of sites interrogated were unlinked, meaning they were extremely difficult to find.
  
-To sum up, darkweb allows you to access the internet without a face. It's something similar to the incognito window in your browser. However, this anonymity is degrading the reputation of the darkweb and has made it a lawless-digital-no-man-land . People consider this section of the web unsafe as no one can be caught hold of. But 'darkweb' isn't that gloomy for users. It's up to you how you use it.  
+To sum up, darkweb allows you to access the internet without a face. It's something similar to the incognito window in your browser. However, this anonymity has degraded the reputation of the darkweb and has made it a lawless-digital-no-man-land . People consider this section of the web unsafe as no one can be caught hold of. But 'darkweb' isn't that gloomy for users. It's up to you how you use it.  
  
  
