@@ -2,12 +2,12 @@
 ---
 Question | Answer |
 --- | --- |
-Writer | Sunil Kumar - MCA I year
+Writer | Sunil Kumar - MSc I year
 Editor | Ronak Aggarwal
 Status | Content is good, Review Topic 
-Plagiarism | None.  100% unique. [Report Link](./plag-reports/plag-blockchain=unraveled-v1.pdf)
+Plagiarism | None.  100% unique. [Report Link](./plag-reports/plag-cryptocurrency-v1.pdf)
 Added | Changed the structure, Removed irrelevant stuff
-Content | Introduction, Applications, Conclusion
+Content | Introduction, Applications, Working, Examples
 ---
 
 ## HEARD OF CRYPTOCURRENCY?
