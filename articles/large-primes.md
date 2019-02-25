@@ -8,8 +8,8 @@ Writer |  Mayank Khandelwal - MSc I year
 Editor | Swati Gautam - MSc I year, Vipin K Jonwal - MCA II year
 Status |	Reviewed once. Waiting for checks to be verified. Will review again.
 Plagiarism |	None.  100% unique. [Report Link](./plag-reports/plag-large-primes-v1.pdf)
-Verdict | Good Candidate. Don't have a comment on its relevance. 
-Checks Required | 24x7x365 days? minutes? what? , definition of primes could be made more clear, some error/"probability" associated with them?
+Verdict | Good Candidate. 
+Checks Required | 24x7x365 what? , definition of primes could be made more clear, some error/"probability" associated with them?
 ---
 
 >“God may not play dice with the universe, but something strange is going on with the prime numbers.”
