@@ -5,8 +5,8 @@ Question ? | Answer ! |
 --- | --- |
 writer | Abhinav - MSc 1st year|
 editor | Shruti Katyal |
-Status | Reviewed once. Needs editing |
-Content | Uber's Elevate Programme - challanges faced - how will it help |
+Status |  |
+Content |  |
 Plagiarism |	None. 100% Unique. [Report Link](./plag-reports/plag-air-taxi-v1.pdf) |
 
 
