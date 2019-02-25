@@ -7,7 +7,7 @@ writer | Ronak Aggarwal - MSc 1st year|
 editor | Shruti Katyal |
 Status | Reviewed once. Needs editing |
 Content | Uber's Elevate Programme - challanges faced - how will it help |
-Plagiarism |	36%. [Report Link](./plag-reports/plag-air-taxi-v1.pdf) |
+Plagiarism |	36%. [Report Link](./plag-reports/plag-air-taxis-v1.pdf) |
 
 
 ---
