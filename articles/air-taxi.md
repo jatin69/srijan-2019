@@ -47,6 +47,6 @@ connected to any of the other nodes. Uber cites the examples of India, where CST
 to Mumbai airport or a Gurgaon to Connaught Place commute would be reduced to
 just 10 minutes, thus saving the users at least two hours every day. Uber’s estimate
 is that urban congestion costs India alone $22 billion a year.
-So lets hope that by 2023 we will be visiting our relatives home instead of taking six hours drive on the highway to a quick and hassle free rides.  
+So lets hope that by 2023 we will be flying away to our relatives’ houses via a quick and hassle free ride instead of taking a six hour drive on the highway. 
 
 
