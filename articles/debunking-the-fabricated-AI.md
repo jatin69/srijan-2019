@@ -6,7 +6,7 @@ Question ? | Answer ! |
 writer | Swati Gautam - MSc 1st year|
 editor | Shruti Katyal |
 Status | Reviewed. Definition to be updated (Asked the writer) |
-plagiarism | 5%. [Report Link](./plag-reports/plag-debunking-the- fabricated-AI-v1.pdf)
+plagiarism | 5%. [Report Link](./plag-reports/plag-debunking-the-fabricated-AI.pdf)
 content | what is AI - misconceptions - myths - conclusion |
 verdict | Good candidate. | 
 ---
