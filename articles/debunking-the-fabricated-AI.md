@@ -47,21 +47,6 @@ So, instead of writing complex rules and specifications to achieve a goal,
 we make use of ML.
 Machine learning is "training" an algorithm so that it learns the objective. Training involves
 feeding it a huge amount of data so that it adjusts, improves and eventually learn.
-3. AI will take away jobs.
-Let's begin with this. ​ Innovation has never lessened opportunities.
-It's not all doom. Machines will never replace jobs that require people in all its entirety, but rather
-make the entire process less stressful, less time - consuming and people - more productive.
-Phones replaced letters to a great extent, abated the job of a postman,
-but created thousands more in manufacturing, advertising, designing and more.
-Let's take an example of "Mya", An AI-powered chatbot that helps filter relevant candidates for
-recruitment, consequently saving hours of search and engagement at the primary level.
-At the end of the day, the recruiters will only have to tend to eligible candidates for hiring.
-Or the IBM Watson's cognitive ability used in healthcare. It hasn't replaced doctors, nor will it
-ever. The diagnosis is still provided by physicians. What it does do well is scrutinise and
-categorise medical data within a minuscule margin of error that fairly aids the process of
-prognosis. Furthermore, do we really need skilled individuals wasting their time going through a
-volume of information when a machine could do that?
-AI is being created to work with humans, not instead of them.
 4. AI can work with any variety of data
 Certainly, but when your face recognition system says you look like a car, it doesn't take long
 to dawn upon you that something went amiss. Any AI system needs high-quality information that
