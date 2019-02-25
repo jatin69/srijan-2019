@@ -14,6 +14,6 @@ S.No | Name of Article | Editor Assigned | Status |
 10 | Debunking the Fabricated | Shruti Katyal | Reviewed. Definition to be updated(By Writer)
 11 |Air Taxis | Shruti Katyal | Reviewed.
 12|GANs|Ronak Aggarwal| On it.
-13| Large Primes| Swati Gautam | Will review by 12 tonight.
+13| Large Primes| Swati Gautam |Reviewed once. Waiting for checks to be verified. Will review again.
 14 | Tor Working | Shruti Katiyal | Reviewed. Review required- Ashita.
 
