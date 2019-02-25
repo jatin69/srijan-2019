@@ -2,9 +2,9 @@
 ---
 S.No | Name of Article | Editor Assigned | Status |
 | --- | --- | --- | --- |
-1 | Inductive Charging | Ronak Aggarwal | Waiting from the write(Will be done by today)
-2 | Cryptocurrency | Ronak Aggarwal | waiting from the writer
-3 | Blockchain Unraveled | Ronak Aggarwal |  Done
+1 | Inductive Charging | Ronak Aggarwal | Opinion needed for the article
+2 | Cryptocurrency | Ronak Aggarwal | Reviewed
+3 | Blockchain Unraveled | Ronak Aggarwal |  Reviewed
 4 | Automated Quandary | Swati Gautam | Reviewed. Review required- Ashita
 5 | Artificially Conscious Machine | Swati Gautam | Reviewed.
 6 | Paper Battery | Swati Gautam | Reviewed, not suitable for magazine.
