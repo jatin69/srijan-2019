@@ -29,9 +29,9 @@ Lucas-Lehmer test, developed by Édouard Lucas and improved by him and Derrick H
 
 The Lucas-Lehmer sequence is given as –
 
-<pre>L(i) = 4,                  i = 1 
+<pre>L(i) = 4,             i = 1 
 
-L(i) = (L(i-1))^2 – 2,          i > 1</pre>
+L(i) = (L(i-1))^2 – 2,     i > 1</pre>
 
 The sequence grows very fast. First few elements of the sequence are 4, 14, 194, 37634, 1416317954,.…. So, instead of first calculating the (n-1)th element of the sequence and then checking it’s divisibility. We keep on passing just the remainders from ith iteration to (i+1)th, which makes calculation somewhat fast.
 
