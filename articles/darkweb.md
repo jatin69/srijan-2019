@@ -9,8 +9,8 @@ Editor | Swati Gautam - MSc I year
 Status |	Reviewed.
 Plagiarism |	None.  100% unique. [Report Link](./plag-reports/plag-darkweb-v1.pdf)
 Added | Sub-headings.
-Content |WWW's constituents - Dark web(DW)  - Reaching DW - Communication within DW - Analysis of an experiment
-Verdict | Good Candidate. Conclusion is missing. Have asked the writer to add it. 
+Content |WWW's constituents - Dark web(DW)  - Reaching DW - Communication within DW - Analysis of an experiment - Conclusioon
+Verdict | Good Candidate.  
 ---
 
 The World Wide Web has three major segments:  **Surface Web, Deep Web and Dark Web**. An enormous, unexplored part of Deep web is the illicit Dark web. 
@@ -47,6 +47,6 @@ Key findings from the research include:
 
 >Interestingly, 39% of sites interrogated were unlinked, meaning they were extremely difficult to find.
  
-To sum up, darkweb allows you to access the internet without a face. It's something similar to the incognito window in your browser. However, this anonymity has degraded the reputation of the darkweb and has made it a lawless-digital-no-man-land . People consider this section of the web unsafe as no one can be caught hold of. But 'darkweb' isn't that gloomy for users. It's up to you how you use it.  
+To sum up, Dark web allows you to access the internet without a face. However, this anonymity has degraded the reputation of  dark web and has made it a lawless-digital-no-man's-land . People consider this section of the web unsafe as no one can be caught hold of. But 'darkweb' isn't all gloomy for users. How you is it makes the difference.  
  
  
