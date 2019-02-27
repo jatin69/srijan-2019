@@ -16,6 +16,8 @@ S.No | Name of Article | Editor Assigned | Status |
 12|GANs|Ronak Aggarwal| Reviewed.
 13| Large Primes| Swati Gautam |Reviewed once. Waiting for checks to be verified. Will review again.
 14 | Tor Working | Shruti Katiyal | Reviewed. Review required- Ashita.
+15 | Showing my world to a 9 year old | |
+16 | The fake news mess | |
 
 ---
 
