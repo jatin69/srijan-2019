@@ -10,6 +10,7 @@ Status |	Reviewed once. Waiting for checks to be verified. Will review again.
 Plagiarism |	None.  100% unique. [Report Link](./plag-reports/plag-large-primes-v1.pdf)
 Verdict | Good Candidate. 
 Checks Required | 24x7x365 what? , definition of primes could be made more clear, some error/"probability" associated with them?
+Checks Reviewed | 24x7x365 hours, analogous to something running for forever. Do we need more naive definition of primes?
 ---
 
 >“God may not play dice with the universe, but something strange is going on with the prime numbers.”
