@@ -1,4 +1,4 @@
-## Status of articles
+## Status of Articles
 ---
 S.No | Name of Article | Editor Assigned | Status |
 | --- | --- | --- | --- |
@@ -30,7 +30,9 @@ S.No | Content | Editor(s) | Status |
 3 | About Srijan | TBA | NULL
 4 | Editorial Team Foreword | TBA | NUL
 
-## Miscellaneous Requirements
+---
+
+## Miscellaneous-Requirements
 
 - Srijan Team Members Pictures [Add Here](http://bit.ly/srijan-team)
 - Pictures of Article Writers
