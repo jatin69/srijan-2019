@@ -3,10 +3,10 @@
 S.No | Name of Article | Editor Assigned | Status |
 | --- | --- | --- | --- |
 1 | Inductive Charging | Ronak Aggarwal | Not suitable
-2 | Cryptocurrency | Ronak Aggarwal | Reviewed, second opinion needed
+2 | Cryptocurrency | Ronak Aggarwal | Reviewed by Ashita. Too factual, not suitable.
 3 | Blockchain Unraveled | Ronak Aggarwal |  Reviewed
 4 | Automated Quandary | Swati Gautam | Reviewed. Review required- Ashita
-5 | Artificially Conscious Machine | Swati Gautam | Reviewed.
+5 | Artificially Conscious Machines | Swati Gautam | Reviewed by ASHITA DIWAN.
 6 | Paper Battery | Swati Gautam | Reviewed, not suitable for magazine.
 7 | Darkweb | Swati Gautam | Reviewed. Review Required - Jatin
 8 | Slow Loris Attack | Swati Gautam |Reviewed.
