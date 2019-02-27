@@ -17,3 +17,21 @@ S.No | Name of Article | Editor Assigned | Status |
 13| Large Primes| Swati Gautam |Reviewed once. Waiting for checks to be verified. Will review again.
 14 | Tor Working | Shruti Katiyal | Reviewed. Review required- Ashita.
 
+---
+
+## Magazine-Content
+
+Other magazine related content.
+
+S.No | Content | Editor(s) | Status |
+| --- | --- | --- | --- |
+1 | Index / Order of articles | TBA | NULL
+2 | VB ma'am Foreword | TBA | NULL
+3 | About Srijan | TBA | NULL
+4 | Editorial Team Foreword | TBA | NUL
+
+## Miscellaneous Requirements
+
+- Srijan Team Members Pictures [Add Here](http://bit.ly/srijan-team)
+- Pictures of Article Writers
+- HD Images for Articles where needed
