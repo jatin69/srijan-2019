@@ -6,7 +6,7 @@ Question | Answer |
 --- | --- |
 Writer |  Shruti Katyal - MCA I year
 Editor | Swati Gautam - MSc I year
-Status |	Reviewed.
+Status |	Reviewed by Ashita.
 Plagiarism |	None.  100% unique. [Report Link](./plag-reports/plag-darkweb-v1.pdf)
 Added | Sub-headings.
 Content |WWW's constituents - Dark web(DW)  - Reaching DW - Communication within DW - Analysis of an experiment - Conclusioon
@@ -19,13 +19,13 @@ The Surface Web, commonly known as Visible Web, is that portion of the web which
 
 The Deep Web or Invisible Web is that part of the World Wide Web whose contents are not indexed by standard web search engines. These contents are hidden behind HTTP forms. This includes webmail, online banking and other services that the users must pay for and hence are protected using a payment gateway. Thus, for gaining access beyond public web pages using direct URL, additional authentications are required.
 
-Lastly, The Dark Web, also referred to as the darknet, is an encrypted portion of the internet that is not indexed by search engines. It consists of web resources or web pages that exist on overlay networks. Specific software and authorization techniques are required to access them. Just like making use of a torch to see in the dark. 
+Lastly, the Dark Web, also referred to as the Darknet, is an encrypted portion of the internet that is not indexed by search engines. It consists of web resources or web pages that exist on overlay networks. Specific software and authorization techniques are required to access them, just like making use of a torch to see in the dark. 
 
 #### Dark Web
 Dark Web is often portrayed as a platform of enigmatic and criminal activities because of its anonymity. The websites in Dark Web have a special URL which is tailed up with the "onion" extension. The format is: [websitename].onion (e.g. torprojectqyqhjn.onion). These domains are not indexed by regular search engines.
-The dark web is believed to generate $500,000 in transactions daily. Users can purchase fake passports, bitcoins, lottery tickets, fake coupons, and even fake degrees at the right price. Dark web constitutes a small subset of the deep web and is made up of different kinds of websites that sell drugs, weapons and even hire assassins.
+The Dark Web is believed to generate $500,000 in transactions daily. Users can purchase fake passports, bitcoins, lottery tickets, fake coupons, and even fake degrees at the right price. Dark web constitutes a small subset of the deep web and is made up of different kinds of websites that sell drugs, weapons and even hire assassins.
 
-### How to reach the dark web?
+### How to reach the Dark Web?
 Reaching dark web is just like, well, peeling an onion.
 Onion routing is an anonymous networking technique. In an onion network, the messages are bound in various layers of encryption, similar to layers of an onion. Onion Routing prevents the transport medium from knowing who is communicating with whom -- the network only knows that communication is taking place. 
 
@@ -33,7 +33,7 @@ Onion routing is an anonymous networking technique. In an onion network, the mes
 Each system connected to an onion network identifies itself as a node. Messages are constantly encrypted and then sent through several such network nodes called onion routers. Thus, creating a circuit of nodes. Messages are put in cells and unwrapped at each onion router(node) with a symmetric key. Each onion router removes a layer of encryption with its symmetric key to reveal routing instructions and sends the message to the next router where this process is repeated.
 
 ### An analysis
-ZeroDayLab’s partner Intelliagg released a white paper on the dark web, where over a sample period, they monitored over 30,000 top-level sites or .onion (Hidden Services). 
+ZeroDayLab’s partner Intelliagg released a white paper on the Dark Web, where over a sample period, they monitored over 30,000 top-level sites or .onion (Hidden Services). 
 Key findings from the research include:
 
 >46% of the 30,000 hidden services analysed were active at the time of the assessment(the other 54% of sites could be attributed to C2 servers or other temporary uses such as onion shares, ricochet chat).
