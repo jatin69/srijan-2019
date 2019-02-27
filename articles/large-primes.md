@@ -19,7 +19,7 @@ Checks Required | 24x7x365 what? , definition of primes could be made more clear
 
 Primes, whole numbers with two factors, have always influenced the mathematical world with its beauty. It has made cryptography an enigma. Large primes are used in encryption to make networks more secure. And who can forget the million-dollar problem of Riemann Hypothesis, which is based on the distribution of primes? Also, there is a sort of joy in finding large prime numbers in society.
 
-The layman’s way for checking a number to be prime is, trial division of the number n with 2,3 and odd numbers of the form 6k±1 (k>=1) less than or equal to √n. But, the time complexity for executing this is **exponential, (O(2<sub>n/2)</sub>)** to the size of n and is not acceptable for large numbers. Let’s compute for a sample. If we assume, a supercomputer can exexute 1016 iterations in one second and we run this program for 24x7x365,  it would not have completed till the moment, even if we started at the big-bang to check the primality of largest prime known till date.
+The layman’s way for checking a number to be prime is, trial division of the number n with 2,3 and odd numbers of the form 6k±1 (k>=1) less than or equal to √n. But, the time complexity for executing this is **exponential, (O(2<sub>n/2)</sub>)** to the size of n and is not acceptable for large numbers. Let’s compute for a sample. If we assume, a supercomputer can exexute 1016 iterations in one second and we run this program 24x7x365 hours, it would not have completed till the moment, even if we started at the big-bang to check the primality of largest prime known till date.
 
 The question therefore is, how is the primality of numbers of such huge sizes is checked? 
 
