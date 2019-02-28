@@ -16,7 +16,7 @@ S.No | Name of Article | Editor Assigned | Status |
 12|GANs|Ronak Aggarwal| Reviewed.
 13| Large Primes| Swati Gautam |Reviewed.
 14 | Tor Working | Shruti Katiyal | Reviewed by Ashita Diwan. Not suitable (Darkweb to be published)
-15 | Showing my world to a 9 year old | |
+15 | Showing my world to a 9 year old | Ronak Aggarwal | Review once again
 16 | The fake news mess | |
 17 | Digital Centralisation | Ronak Aggarwal | 
 18 | Smart walls | Swati Gautam | Reviewed.
