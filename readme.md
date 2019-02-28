@@ -20,7 +20,7 @@ S.No | Name of Article | Editor Assigned | Status |
 16 | The fake news mess | |
 17 | Digital Centralisation | Ronak Aggarwal | 
 18 | Smart walls | Swati Gautam | Reviewed.
-19 | Screen Addiction | Swati Gautam 
+19 | Screen Addiction | Swati Gautam |Reviewed. Article seems biased. Add if there are no others.
 
 ---
 
