@@ -11,7 +11,7 @@ S.No | Name of Article | Editor Assigned | Status |
 7 | Darkweb | Swati Gautam | Reviewed by Ashita Diwan.
 8 | Slow Loris Attack | Swati Gautam |Reviewed.
 9 | Social Media- Preacher or Breacher | Shruti Katyal | (Title to be reviewed)
-10 | Debunking the Fabricated | Shruti Katyal | Reviewed.
+10 | Debunking the Fabricated | Shruti Katyal | Reviewed by Ashita.
 11 |Air Taxis | Shruti Katyal | Reviewed by Ashita Diwan.
 12|GANs|Ronak Aggarwal| Reviewed.
 13| Large Primes| Swati Gautam |Reviewed.
@@ -20,7 +20,7 @@ S.No | Name of Article | Editor Assigned | Status |
 16 | The fake news mess | |
 17 | Digital Centralisation | Ronak Aggarwal | 
 18 | Smart walls | Swati Gautam | Reviewed.
-19 | Screen Addiction | Swati Gautam |Reviewed. Article seems biased. Add if there are no others.
+19 | Screen Addiction | Swati Gautam |Reviewed by Ashita. 
 
 ---
 
