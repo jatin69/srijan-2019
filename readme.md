@@ -18,7 +18,7 @@ S.No | Name of Article | Editor Assigned | Status |
 14 | Tor Working | Shruti Katiyal | Reviewed by Ashita Diwan. Not suitable (Darkweb to be published)
 15 | Showing my world to a 9 year old | Ronak Aggarwal | Review once again
 16 | The fake news mess | |
-17 | Digital Centralisation | Ronak Aggarwal | 
+17 | Digital Centralisation | Ronak Aggarwal | Reviewed
 18 | Smart walls | Swati Gautam | Reviewed.
 19 | Screen Addiction | Swati Gautam |Reviewed by Ashita. 
 
