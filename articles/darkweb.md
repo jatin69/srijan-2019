@@ -30,10 +30,10 @@ Reaching dark web is just like, well, peeling an onion.
 Onion routing is an anonymous networking technique. In an onion network, the messages are bound in various layers of encryption, similar to layers of an onion. Onion Routing prevents the transport medium from knowing who is communicating with whom -- the network only knows that communication is taking place. 
 
 ### Communication within Dark Web
-Each system connected to an onion network identifies itself as a node. Messages are constantly encrypted and then sent through several such network nodes called onion routers. Thus, creating a circuit of nodes. Messages are put in cells and unwrapped at each onion router(node) with a symmetric key. Each onion router removes a layer of encryption with its symmetric key to reveal routing instructions and sends the message to the next router where this process is repeated.
+Each system connected to an onion network identifies itself as a node. Messages are constantly encrypted and then sent through several such network nodes called onion routers, thus creating a circuit of nodes. Messages are put in cells and unwrapped at each onion router(node) with a symmetric key. Each onion router removes a layer of encryption with its symmetric key to reveal routing instructions and sends the message to the next router where this process is repeated.
 
 ### An analysis
-ZeroDayLab’s partner Intelliagg released a white paper on the Dark Web, where over a sample period, they monitored over 30,000 top-level sites or .onion (Hidden Services). 
+ZeroDayLab’s partner Intelliagg released a white paper on the Dark Web, in which they monitored over 30,000 top-level sites or .onion (Hidden Services) over a sample period of time. 
 Key findings from the research include:
 
 >46% of the 30,000 hidden services analysed were active at the time of the assessment(the other 54% of sites could be attributed to C2 servers or other temporary uses such as onion shares, ricochet chat).
@@ -47,6 +47,6 @@ Key findings from the research include:
 
 >Interestingly, 39% of sites interrogated were unlinked, meaning they were extremely difficult to find.
  
-To sum up, Dark web allows you to access the internet without a face. However, this anonymity has degraded the reputation of  dark web and has made it a lawless-digital-no-man's-land . People consider this section of the web unsafe as no one can be caught hold of. But 'darkweb' isn't all gloomy for users. How you is it makes the difference.  
+To sum up, the Dark Web allows you to access the internet without a face. However, this anonymity has degraded the reputation of Dark Web and has made it a lawless-digital-no-man-land . People consider this section of the web unsafe as no one can be caught hold of. But 'Dark Web' isn't all gloomy for users. How you use is it makes all the difference! 
  
  
