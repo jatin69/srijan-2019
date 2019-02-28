@@ -5,7 +5,7 @@ Question ? | Answer ! |
 --- | --- |
 writer | Swati Gautam - MSc 1st year|
 editor | Shruti Katyal |
-Status | Reviewed. Definition to be updated (Asked the writer) |
+Status | Reviewed.  |
 plagiarism | 7%. Definition from wikipedia [Report Link](./plag-reports/plag-debunking-the-fabricated-AI-v1.pdf)
 content | what is AI - misconceptions - myths - conclusion |
 verdict | Good candidate. | 
@@ -29,18 +29,15 @@ Perhaps, it is easier to connect to an audience via these clichés. But do we ne
 the age of Alexa, Cortana, face detection in mobile phones and Google Maps, do we really
 require false depiction of AI?
 
-This is how Wikipedia defines AI.
-" Artificial intelligence (AI) is intelligence demonstrated by machines, in contrast to the natural
-intelligence displayed by humans and other animals. Colloquially, the term 'artificial intelligence'
-is applied when a machine mimics 'cognitive' functions that humans associate with other human
-minds, such as 'learning' and 'problem solving'. ​ "
+We solve problems using our natural intelligence. Artificial intelligence (AI) is intelligence indicated by machines.
+It is a machine's ability of analysing and solving problems by simulating functions of the human brain.
 
 ### Some myths about AI
 Now that we have a formal definition of what it is, let's counter some myths that plague this field.
-1 . AI = Robots .
+1 . AI == Robots .
 No. AI is any machine that has the property of exhibiting intelligence, performing tasks that
 are an essence of human intelligence.
-Sure, a robot does employ concepts of AI, but the keyword is "use".
+Sure, a robot does employ concepts of AI, but the keyword is "employ".
 A machine that can recognise images is AI, perhaps limited in its scope but nevertheless - AI.
 2. AI = Machine Learning .
 Machine Learning(ML) is a subset of AI. Machine Learning is only a means of achieving AI. A

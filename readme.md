@@ -11,10 +11,10 @@ S.No | Name of Article | Editor Assigned | Status |
 7 | Darkweb | Swati Gautam | Reviewed by Ashita Diwan.
 8 | Slow Loris Attack | Swati Gautam |Reviewed.
 9 | Social Media- Preacher or Breacher | Shruti Katyal | (Title to be reviewed)
-10 | Debunking the Fabricated | Shruti Katyal | Reviewed. Definition to be updated(By Writer)
+10 | Debunking the Fabricated | Shruti Katyal | Reviewed.
 11 |Air Taxis | Shruti Katyal | Reviewed by Ashita Diwan.
 12|GANs|Ronak Aggarwal| Reviewed.
-13| Large Primes| Swati Gautam |Reviewed once. Waiting for checks to be verified. Will review again.
+13| Large Primes| Swati Gautam |Reviewed.
 14 | Tor Working | Shruti Katiyal | Reviewed by Ashita Diwan. Not suitable (Darkweb to be published)
 15 | Showing my world to a 9 year old | |
 16 | The fake news mess | |
