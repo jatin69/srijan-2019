@@ -22,7 +22,7 @@
 | 16   | The fake news mess                 | Jatin Rohilla   | Will read and edit soon.                       |                                                                            | review pending                |
 | 17   | Digital Centralisation             | Ronak Aggarwal  | Reviewed.                                      | 34% Plag. The article is barely an introduction, certainly not an insight. | Review requested - Ashita     |
 | 18   | Smart walls                        | Swati Gautam    | Reviewed.                                      | 37% Plag. Can be worked upon to publish it. Isn't very good, however.      | Remove plag and edit          |
-| 19   | Screen Addiction                   | Swati Gautam    | Reviewed by Ashita.                            | 4% plag. can be removed. Needs minor edits and restructuring               | Edit and restructure          |
+| 19   | Screen Addiction                   | Swati Gautam    | Reviewed by Ashita.Reviewed again. Edited and restructured. Plag-none. Review requested.                          | 4% plag. can be removed. Needs minor edits and restructuring               | Edit and restructure          |
 
 ---
 
