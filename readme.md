@@ -19,7 +19,7 @@
 | 13   | Large Primes                       | Swati Gautam    | Reviewed.                                      | All good                                    | YES                           |
 | 14   | Tor Working                        | Shruti Katiyal  | Reviewed by Ashita Diwan.                      | Editing Required                            | Probable YES                  |
 | 15   | Showing my world to a 9 year old   | Ronak Aggarwal  | Review once again                              |
-| 16   | The fake news mess                 |                 |                                                |                                             |
+| 16   | The fake news mess                 | Ronak Aggarwal  | Reviewed                                       |                                             |
 | 17   | Digital Centralisation             | Ronak Aggarwal  | Reviewed                                       |                                             |
 | 18   | Smart walls                        | Swati Gautam    | Reviewed.                                      | 35% Plag                                    | NO FOR NOW                    |
 | 19   | Screen Addiction                   | Swati Gautam    | Reviewed by Ashita.                            |                                             |
