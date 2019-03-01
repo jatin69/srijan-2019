@@ -1,16 +1,17 @@
+# It’s a freaking smart wall
 
 ---
-Question | Answer |
---- | --- |
-Writer | Satyam Shivankur - MCA I Year
-Editor | Swati Gautam - MSc I year
-Status | Reviewed by Ashita.
-Plagiarism |	None.  100% unique. [Report Link](./plag-reports/plag-smart-walls-v1.pdf)
-Content |Smart walls - Procedure - Walls++ - To achieve-Conclusion
-Verdict | Good Candidate.  
----
 
-## It’s a freaking smart wall!
+| Question   | Answer                                                                   |
+| ---------- | ------------------------------------------------------------------------ |
+| Writer     | Satyam Shivankur - MCA I Year                                            |
+| Editor     | Swati Gautam - MSc I year                                                |
+| Status     | Reviewed by Ashita.                                                      |
+| Plagiarism | None. 100% unique. [Report Link](./plag-reports/plag-smart-walls-v1.pdf) |
+| Content    | Smart walls - Procedure - Walls++ - To achieve-Conclusion                |
+| Verdict    | Good Candidate.                                                          |
+
+---
 
 Yes, you heard it right. In the foreseeable future, thinking about the plastic switches on our walls that control different appliances will fill us with nostalgia. Researchers at Carnegie Mellon University and Disney Research have developed a way to make walls smart.
 
@@ -27,4 +28,3 @@ This system has lots of potential. It can monitor activity in a room, adjust the
 As intimidating as this seems, there is still a long way to go. Wall++ has not yet been optimized for energy consumption, says Yang Zhang, a Ph.D. student at HCII. He estimates the electrodes will consume as much power as a standard touch screen. Though the general functionality seems to be sound, an alternative to installing sensor boards on each wall is required. If achieved, the technology will be a game-changer in almost every sector.
 
 To conclude, the future seems bright for Wall++. Walls might literally have ears and a voice, and we will be able to ask them the million dollar question - Who is Alexa?
- 

@@ -1,20 +1,23 @@
 ## Debunking the fabricated - AI
 
 ---
-Question ? | Answer ! |
---- | --- |
-writer | Swati Gautam - MSc 1st year|
-editor | Shruti Katyal |
-Status | Reviewed by Ashita Diwan.  |
-plagiarism | 7%. Definition from wikipedia [Report Link](./plag-reports/plag-debunking-the-fabricated-AI-v1.pdf)
-content | what is AI - misconceptions - myths - conclusion |
-verdict | Good candidate. | 
+
+| Question ? | Answer !                                                                                            |
+| ---------- | --------------------------------------------------------------------------------------------------- |
+| writer     | Swati Gautam - MSc 1st year                                                                         |
+| editor     | Shruti Katyal                                                                                       |
+| Status     | Reviewed by Ashita Diwan.                                                                           |
+| plagiarism | 7%. Definition from wikipedia [Report Link](./plag-reports/plag-debunking-the-fabricated-AI-v1.pdf) |
+| content    | what is AI - misconceptions - myths - conclusion                                                    |
+| verdict    | Good candidate.                                                                                     |
+
 ---
 
 ### What is Artificial Intelligence?
+
 If you're not living under a rock, you must have heard of this term. And if you do know, you must be fascinated by it. After all, the words say it all. In layman's term- intelligence that has been created.
 
-A simple google search will come up with hundreds of articles, images, books, media, movies devoted to it. 
+A simple google search will come up with hundreds of articles, images, books, media, movies devoted to it.
 
 Neurons firing, robots thinking, code pouring down a screen and if you're lucky you might as well find " The Terminator " buried somewhere in there.
 
@@ -25,6 +28,7 @@ Perhaps, it is easier to connect to an audience via these clichés. But do we ne
 We solve problems using our natural intelligence. Artificial intelligence (AI) is intelligence indicated by machines. It is a machine's ability of analysing and solving problems by simulating functions of the human brain.
 
 ### Some myths about AI
+
 Now that we have a formal definition of what it is, let's counter some myths that plague this field.
 
 **1. AI == Robots**

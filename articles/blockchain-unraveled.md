@@ -1,16 +1,20 @@
 # BLOCKCHAIN UNRAVELED
----
-Question | Answer |
---- | --- |
-Writer | Ritika - MCA I year
-Editor | Ronak Aggarwal
-Status | Reviewed by Ashita Diwan.
-Plagiarism | None.  100% unique. [Report Link](./plag-reports/plag-blockchain-unraveled-v1.pdf)
-Added | Changed the structure
-Content | Introduction, Applications, Conclusion
+
 ---
 
-# What is Blockchain?
+| Question   | Answer                                                                            |
+| ---------- | --------------------------------------------------------------------------------- |
+| Writer     | Ritika - MCA I year                                                               |
+| Editor     | Ronak Aggarwal                                                                    |
+| Status     | Reviewed by Ashita Diwan.                                                         |
+| Plagiarism | None. 100% unique. [Report Link](./plag-reports/plag-blockchain-unraveled-v1.pdf) |
+| Added      | Changed the structure                                                             |
+| Content    | Introduction, Applications, Conclusion                                            |
+
+---
+
+## What is Blockchain?
+
 A chain of blocks where each block contains data of value with no central supervision. It has been making huge splashes in the tech community. Most of the people used to think that blockchain is limited to cryptocurrency. But now it is becoming apparent that blockchain is about far more than just cryptocurrency. So many innovative uses of this technology are emerging every day across finance, media, healthcare, government, and other sectors.
 
 ## Uses of blockchain

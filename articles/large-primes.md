@@ -1,19 +1,19 @@
-
-#  Large Primes: How to check them?
- 
----
-Question | Answer |
---- | --- |
-Writer |  Mayank Khandelwal - MSc I year
-Editor | Vipin K Jonwal - MCA II year , Swati Gautam - MSc I year
-Status |	Reviewed once.
-Plagiarism |	None.  100% unique. [Report Link](./plag-reports/plag-large-primes-v1.pdf)
-Verdict | Good Candidate. 
+# Large Primes: How to check them?
 
 ---
 
->“God may not play dice with the universe, but something strange is going on with the prime numbers.”
--Paul Erdos
+| Question   | Answer                                                                    |
+| ---------- | ------------------------------------------------------------------------- |
+| Writer     | Mayank Khandelwal - MSc I year                                            |
+| Editor     | Vipin K Jonwal - MCA II year , Swati Gautam - MSc I year                  |
+| Status     | Reviewed once.                                                            |
+| Plagiarism | None. 100% unique. [Report Link](./plag-reports/plag-large-primes-v1.pdf) |
+| Verdict    | Good Candidate.                                                           |
+
+---
+
+> “God may not play dice with the universe, but something strange is going on with the prime numbers.”
+> -Paul Erdos
 
 “December 21, 2018 -- The largest known prime number **2<sup>82589933</sup> - 1** has being discovered by **The Great Internet Mersenne Prime Search (GIMPS)** which has **24,862,048** digits. A computer volunteered by Patrick Laroche from Ocala, Florida made the find on December 7, 2018.”
 
@@ -21,11 +21,11 @@ Primes, whole numbers with exactly two factors, have always influenced the mathe
 
 The layman’s way for checking a number to be prime is, trial division of the number n with 2,3 and odd numbers of the form 6k±1 (k>=1) less than or equal to √n. But, the time complexity for executing this is **exponential, (O(2<sub>n/2)</sub>)** to the size of n and is not acceptable for large numbers. Let’s compute for a sample. If we assume, a supercomputer can exexute 1016 iterations in one second and we run this program 24x7x365 hours, it would not have completed till the moment, even if we started at the big-bang to check the primality of largest prime known till date.
 
-The question therefore is, how is the primality of numbers of such huge sizes is checked? 
+The question therefore is, how is the primality of numbers of such huge sizes is checked?
 
 Methods like Fermat’s Little Theorem and Miller-Rabin test exist, but there is some error/probability associated with them.
 
-Lucas-Lehmer test, developed by Édouard Lucas and improved by him and Derrick Henry Lehmer is used to check the primality of special types of numbers known as Mersenne numbers. These are the numbers of the form 2<sup>n</sup> – 1. Under this test, a Mersenne number, 2<sup>n</sup> -1 is prime, if and only if, n is odd prime and (n-1)th element of the Lucas-Lehmer sequence (given below) is divisible by the number. 
+Lucas-Lehmer test, developed by Édouard Lucas and improved by him and Derrick Henry Lehmer is used to check the primality of special types of numbers known as Mersenne numbers. These are the numbers of the form 2<sup>n</sup> – 1. Under this test, a Mersenne number, 2<sup>n</sup> -1 is prime, if and only if, n is odd prime and (n-1)th element of the Lucas-Lehmer sequence (given below) is divisible by the number.
 
 The Lucas-Lehmer sequence is given as –
 
@@ -63,30 +63,8 @@ An algorithm for primality checking of all types of numbers is also of theoretic
 
 Some amusing facts :
 
->The largest prime found without using a computer is, (1/17)*(2<sup>148</sup>+1) (a Proth number)by Aime Ferrier. He used a mechanical calculator and Proth’s theorem for this.
+> The largest prime found without using a computer is, (1/17)\*(2<sup>148</sup>+1) (a Proth number)by Aime Ferrier. He used a mechanical calculator and Proth’s theorem for this.
 
->The largest prime checked just by hand calculations is 2<sup>127</sup>-1 by Lucas. Using his Lucas-Lehmer sequence.
+> The largest prime checked just by hand calculations is 2<sup>127</sup>-1 by Lucas. Using his Lucas-Lehmer sequence.
 
->It is difficult (but scientifically possible) to remember all the digits of the largest prime known till date in decimal by humans. But you may remember it in binary ;)
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
- 
- 
+> It is difficult (but scientifically possible) to remember all the digits of the largest prime known till date in decimal by humans. But you may remember it in binary ;)
