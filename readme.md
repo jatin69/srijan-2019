@@ -1,4 +1,4 @@
-# Status of Articles
+# Status - Articles
 
 ---
 
@@ -25,6 +25,17 @@
 | 19   | Screen Addiction                   | Swati Gautam    | Reviewed by Ashita.Reviewed again. Edited and restructured. Plag-none. Review requested.                          | 4% plag. can be removed. Needs minor edits and restructuring               | Edit and restructure          |
 
 ---
+
+## Status - Poems
+
+---
+
+| S.No | Name                   	| Conclusion |
+| ---- | -------------------------------| ---------- |
+| 1    | मुझे-मुझसे-प्यार-हो-रहा -हैं  |		|	     |
+| 2    | My life, my choice.            |            |
+| 3    | If only.                       |            |
+| 4    | There was a time 		|            |
 
 ## Magazine-Content
 
