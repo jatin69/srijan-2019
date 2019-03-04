@@ -1,4 +1,4 @@
-# It’s a freaking smart wall
+# The startling smart walls!
 
 ---
 
