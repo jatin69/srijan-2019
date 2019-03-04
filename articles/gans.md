@@ -35,7 +35,7 @@ Certainly not. They have improved throughout the years but it still has some pro
 In short, GANs are better now from the ones in 2014 but still, there's a long way ahead.
 
 There are a lot of inappropriate usages of GANs, as well. 
-> For example, Face2Face model presented at CVPR 2016 can transfer visually plausible facial expressions from a source video to a target video. Using this model, anyone can forge the footage of a country's president and use it inappropriately for their personal benefit.
-> Another one is PassGAN which has been proposed by Briland Hitaj, Paolo Gasti, Giuseppe Ateniese and Fernando Perez-Cruz in their paper. This project was developed to crack passwords. It performed twice as well as John the ripper and had a very promising result as compared to the contemporary password cracking tools.
+1. For example, Face2Face model presented at CVPR 2016 can transfer visually plausible facial expressions from a source video to a target video. Using this model, anyone can forge the footage of a country's president and use it inappropriately for their personal benefit.
+2. Another one is PassGAN which has been proposed by Briland Hitaj, Paolo Gasti, Giuseppe Ateniese and Fernando Perez-Cruz in their paper. This project was developed to crack passwords. It performed twice as well as John the ripper and had a very promising result as compared to the contemporary password cracking tools.
 
 There are many more examples to support the statement but we are yet to see a groundbreaking result in this field!
