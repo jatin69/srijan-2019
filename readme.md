@@ -15,13 +15,13 @@
 | 9    | Social Media- Preacher or Breacher | Shruti Katyal   | Plag                                           | NO. A complete rewrite is required. Can't edit this                        | NO                            |
 | 10   | Debunking the Fabricated           | Shruti Katyal   | Reviewed by Ashita.                            | All good.                                                      | YES                  |
 | 11   | Air Taxis                          | Shruti Katyal   | Reviewed by Ashita Diwan.                      | All good.                     | YES                           |
-| 12   | GANs                               | Ronak Aggarwal  | Reviewed.                                      | All good                                                                   | YES  |
-| 13   | Large Primes                       | Swati Gautam    | Reviewed.                                      | All good                                                                   | YES                           |
+| 12   | GANs                               | Ronak Aggarwal  | Reviewed.                                      | reread by swati. Lookout for additions.                                                                   | YES  |
+| 13   | Large Primes                       | Jatin Rohilla    | Reviewed.                                      | Common vote says article is not suitable for now.                                                                    | YES                           |
 | 14   | Tor Working                        | Shruti Katiyal  | Reviewed by Ashita Diwan.                      | All good                                                          |  YES                  |
-| 15   | Showing my world to a 9 year old   | Ronak Aggarwal  | Review once again. Jatin.                      | Problems with analogy. Can be edited and improved.                         | Needs work and edits          |
+| 15   | Showing my world to a 9 year old   | Ronak Aggarwal  | Review once again. Jatin.                      | Problems with analogy. Edit.  Can be edited and improved.                         | Needs work and edits          |
 | 16   | The fake news mess                 | Jatin Rohilla   | Will read and edit soon.                       |                                                                            | review pending                |
-| 17   | Digital Centralisation             | Ronak Aggarwal  | Reviewed.                                      | Plag removed | TBD |
-| 18   | Smart walls                        | Swati Gautam    | Reviewed again. Plag removed. Edited and restructured. Review requested.                                      | Plag removed      | TBD
+| 17   | Digital Centralisation             | Ronak Aggarwal  | Reviewed.                                      | Plag removed. Merge with smart walls | TBD |
+| 18   | Smart walls                        | Swati Gautam    | Reviewed again. Plag removed. Edited and restructured. Review requested.                                      | Plag removed. Merge with digital centralization.      | TBD
 | 19   | Screen Addiction                   | Swati Gautam    | Reviewed by Ashita.Reviewed again. Edited and restructured. Plag-none. Review requested.                          | Reviewed.            | Probable Yes.       |
 
 ---
