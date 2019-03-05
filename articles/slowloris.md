@@ -14,7 +14,7 @@
 ---
 > Slow loris are very slow animals, so slow that you might believe you were watching a video in slow motion!
 
-Let's start with an analogy. Imagine yourself standing in a queue at the checkout of a shop. The person at the checkout can only handle one customer at a time. As casually as you're waiting for your turn to come, you see people cutting in line before you and that too for no reason other than to disrupt the queue being served. They aren't even legitimate customers, they just don't like you. Refuting you service is their only aim.
+Imagine yourself standing in a queue at the checkout of a shop. The person at the checkout can only handle one customer at a time. As casually as you're waiting for your turn to come, you see people cutting in line before you and that too for no reason other than to disrupt the queue being served. They aren't even legitimate customers, they just don't like you. Refuting you service is their only aim.
 This is known as *Denial of Service(DoS)*
 
 In the world of computer science, DoS attack is a cyber-attack in which the offender renders a network or a machine inaccessible to legitimate requests from a client usually by flooding the server with overwhelming traffic.
