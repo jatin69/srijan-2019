@@ -11,23 +11,6 @@
 | Added      | Formatting                                                                    |
 | Content    | Paragraphs explaining 4 major concepts of computer science.                   |
 
----
-
-**_ClearText._**
-**_Pendown._**
-**_Turtle move Forward._**
-# Showing my World to a 9 year Old
-
----
-
-| Question   | Answer                                                                        |
-| ---------- | ----------------------------------------------------------------------------- |
-| Writer     | Deepti Sharma - MSc II year                                                   |
-| Editor     | Ronak Aggarwal                                                                |
-| Status     | Relevant information, Conclusion is missing                                   |
-| Plagiarism | None. 100% unique. [Report Link](./plag-reports/plag-showing-my-world-v1.pdf) |
-| Added      | Formatting                                                                    |
-| Content    | Paragraphs explaining 4 major concepts of computer science.                   |
 
 ---
 
@@ -36,8 +19,7 @@
 **_Turtle move Forward._**
 Remember these commands from the elementary class “programming” language that you learned in your school? It was always a moment of delight to be able to use LOGO for developing programs. A feeling of superiority filled you in with every output. But, that was a decade ago.If we look back and compare it to what students are learning today, being amazed would be an understatement. 
 
-The younger generation of today has platforms like - CodeHS. A web-based teaching curriculum developed by two Stanfordian Jeremy and Zach which offers
-various courses based on Python, JavaScript and even Augmented Reality(AR).
+The younger generation of today has platforms like - CodeHS. A web-based teaching curriculum developed by two Stanfordian Jeremy and Zach which offers various courses based on Python, JavaScript and even Augmented Reality(AR).
 
 Those days are not far when a 9-year-old kid will have to study about or get familiarised with topics such as  machine learning,artificial intelligence and data mining to say the least. Prepping for the future, here are two terms that can be explained to children using simplistic examples. 
 
@@ -45,7 +27,7 @@ Those days are not far when a 9-year-old kid will have to study about or get fam
 
 If you were a pokemon fan, you definitely remember the pokemon detection device used by Pikachu's trainer Ashley. He used to click a picture and the device would instantaneously recognize a Pikachu and its layout details. That very device is the best example of machine learning.
 
-How do you recognize a person? By remembering their features. Names, complexion, color of eyes, height etc.The next time you see them, you are able to recognize them immediately from this past knowledge. Machine Learning is the same concept. This time however, the machines are trying to remember and recognize things. Exactly what our pokemon detection device folowed.
+How do you recognize a person? By remembering their features. Names, complexion, color of eyes, height etc.The next time you see them, you are able to recognize them immediately from this past knowledge. Machine Learning is the same concept. This time however, the machines are trying to remember and recognize things. Exactly what our pokemon detection device folows.
 The Machine remembers the yellow color, two ears, black stripes, big oval black eyes and the red dots on the cheek, promptly recognizing a pikachu when it sees one. Not only a pikachu, it can remember and recognize all kinds of pokemon by learning on their features.
 
 ### 2. Blockchain Technology :
