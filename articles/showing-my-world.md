@@ -16,6 +16,24 @@
 **_ClearText._**
 **_Pendown._**
 **_Turtle move Forward._**
+# Showing my World to a 9 year Old
+
+---
+
+| Question   | Answer                                                                        |
+| ---------- | ----------------------------------------------------------------------------- |
+| Writer     | Deepti Sharma - MSc II year                                                   |
+| Editor     | Ronak Aggarwal                                                                |
+| Status     | Relevant information, Conclusion is missing                                   |
+| Plagiarism | None. 100% unique. [Report Link](./plag-reports/plag-showing-my-world-v1.pdf) |
+| Added      | Formatting                                                                    |
+| Content    | Paragraphs explaining 4 major concepts of computer science.                   |
+
+---
+
+**_ClearText._**
+**_Pendown._**
+**_Turtle move Forward._**
 Remember these commands from the elementary class “programming” language that you learned in your school? It was always a moment of delight to be able to use LOGO for developing programs. A feeling of superiority filled you in with every output. But, that was a decade ago.If we look back and compare it to what students are learning today, being amazed would be an understatement. 
 
 The younger generation of today has platforms like - CodeHS. A web-based teaching curriculum developed by two Stanfordian Jeremy and Zach which offers
@@ -39,5 +57,5 @@ Soultion? Some of us would also start keeping track of the scores. But then, on 
 Extending this to adulthood, imagine if someone manages to alter data that's crucial, like bank balance. To safeguard agains this, blockchain technology uses the same concept as above. Everyone has a copy of all the transactions. Therefore, no one can is able to hack and alter the balance of any one person. It cannot be reflected back to so many people.
 
 
-We've just managed to show how one can involve a 9-year-old into the said "complex" world of computer science. No concepts are hard to follow. Learning can always be made fun and inclusive. And it's when we incorporate what we learn into our daily lives, have we actually learnt it.
+We've just managed to show how one can involve a 9-year-old into the said "complex" world of computer science. No concepts are hard to follow. Learning can always be made fun and inclusive. To conclude, it's when we can explain composite ideas in easy, intuitive ways, have we actually learnt them.
 
