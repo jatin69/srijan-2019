@@ -13,7 +13,7 @@
 
 ---
 
-Hello! Take your eyes off this magazine and glance around for a moment. What do you observe? You will see people using their phones, laptops or other electronic gadgets, with their eyes fixated on their screens. The world is at our fingertips. Everything is accessible by a couple of taps on our gadgets. But, despite the advantages that these devices offer, the time expended on them results in major side effects.
+Hello! Take your eyes off this magazine and look around for a moment. What do you observe? You will see people using their phones, laptops or other electronic gadgets, with their eyes fixated on their screens. The world is at our fingertips. Everything is accessible by a couple of taps on our gadgets. But, despite the advantages that these devices offer, the time expended on them results in major side effects.
 
 Content provided by social media and entertainment apps/sites is virtually indefinite, consumption of which is making us procrastinators and addicted. From binge-watching our favorite shows to working on a project, most of our time is spent sitting before a screen. This is the precise definition of "Screen addiction". It is becoming predominant with each passing moment; with the internet being easily and economically available to all. We have already reached a point where we have acknowledged its normalcy and blissfully ignored the humongous problem it is becoming.
 
