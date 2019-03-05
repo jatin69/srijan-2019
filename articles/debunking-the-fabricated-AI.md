@@ -1,32 +1,3 @@
-Attachment debunking-the-fabricated-AI.md added.
-Conversation opened. 2 messages. 1 message unread.
-
-Skip to content
-Using Gmail with screen readers
-1 of 407
-AI
-Inbox
-	x
-Swati Gautam
-	
-	Attachments6:27 PM (15 minutes ago)
- 
-Shobhit Gautam
-	
-Attachments6:43 PM (0 minutes ago)
-	
-to me
-   
-Translate message
-Turn off for: Malay
-
-
-On Tue, Mar 5, 2019 at 6:28 PM Swati Gautam <swati.mcs18.du@gmail.com> wrote:
-
-
-Attachments area
-	
-	
 	
 
 ## Debunking the fabricated - AI
@@ -46,7 +17,7 @@ Attachments area
 
 ### Artificial Intelligence.
 
-If you're in touch with the real world, you must have heard of this term. And if you do know, you must be fascinated by it. After all, the words say it all - intelligence that isn't natural, but one that has been constructed.
+If you're in touch with the real world, you must have heard of this term. And if you do know, you must be fascinated by it. After all, the words say it all - intelligence that isn't natural, one that has been constructed.
 
 A simple google search will come up with hundreds of articles, images, books, media, movies devoted to it. Nowadays, we see robots thinking, code pouring down a screen and if you're lucky you might as well find " The Terminator " buried somewhere in there.
 
@@ -71,12 +42,11 @@ Machine Learning(ML) is a subset of AI. Machine Learning is only a means of achi
 
 **3. AI can work with any variety of data**
 
-Certainly, but when your face recognition system says you look like a car, it doesn't take long to dawn upon you that something went amiss. Any AI system needs high-quality information that pertains to the problem at hand; data with some noise (unstructured, meaningless data) is fine but that noise can't be a heavy - metal song; ?pun intended?. AI is a program and a program obviously needs good data.
+Certainly, but when your face recognition system says you look like a car, it doesn't take long to dawn upon you that something went amiss. Any AI system needs high-quality information that pertains to the problem at hand; data with some noise (unstructured, meaningless data) is fine but that noise can't be a heavy-metal song, pun intended. AI is a program and a program obviously needs good data.
 
 **4. AI will rule over the world**
 
 If we go by any conventional science-fiction movie on the matter of AI, yes. In real life, no. Ever since "AI" transcended from academic knowledge to general circulation, it has been fashioned and manipulated. Likening the power of an AI-powered machine to that of a human in power is imaginative but essentially, bizarre.
 
 Today's AI is a snail against what it actually can be. A machine that has intellectual capacity will operate for us. It won't destroy but rather enrich our lives. Semantics cannot be created from syntactic logic. Machines will always require human input and intervention. And the said machines will be smart enough to assess the significance of its creator - us. Maybe there is a threat, but that kind of revolution hasn't happened yet. Besides, if we are capable of recognizing an intimidation that is unreachable today, we are more than proficient of treating it. The hype created by pop culture shouldn't be a hindrance in research, inventiveness and innovation. AI is already a part of our lives. It's time we ask questions that help us comprehend it - what it is, what it is not, what it can be and what impact it will have on our lives.
-
 
