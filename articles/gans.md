@@ -26,7 +26,7 @@ The generator is assigned with the task of designing natural looking images, sim
 
 ## Are GANs flawless yet?
 
-Certainly not. They have improved throughout the years but it still has some problems like symmetry cannot be seen in faces, background of faces may be inappropriate, distinguishable hair etc.
+Certainly not. They have improved throughout the years but they still have some problems like symmetry cannot be seen in faces, background of faces may be inappropriate, distinguishable hair etc.
  
 GANs are yet not capable of understanding the image orientation, or other features that can be easily recognized by human eyes. They just try to mimic the image and in doing so, they might end up giving a distorted image. GANs cannot differentiate between foreground and background which in turn makes it difficult to convert a 3D image to 2D. On top of all these shortcomings, the training process also may take quite a lot of time and resources. In short, GANs are better now from the ones in 2014 but still, there's a long way ahead.
 
