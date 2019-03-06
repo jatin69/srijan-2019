@@ -36,7 +36,7 @@ Chit Games were always the best part of the recess, recalling the scores of the 
 
 Soultion? Some of us would also start keeping track of the scores. But then, on some occasion the gang leader would demand changing the score because it was their best friend’s birthday. All of us have faced this unfair scenario. Haven’t we ? Result- everybody had to waste the last page of their notebook in keeping track of the scores so that no change  would go undetected.
 
-Extending this to adulthood, imagine if someone manages to alter data that's crucial, like bank balance. To safeguard agains this, blockchain technology uses the same concept as above. Everyone has a copy of all the transactions. Therefore, no one can is able to hack and alter the balance of any one person. It cannot be reflected back to so many people.
+Extending this to adulthood, imagine if someone manages to alter data that's crucial, like bank balance. To safeguard against this, blockchain technology uses the same concept as above. Everyone has a copy of all the transactions. Therefore, no one is able to hack and alter the balance of any one person. It cannot be reflected back to so many people.
 
 ---
 
