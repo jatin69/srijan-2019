@@ -38,9 +38,7 @@ Soultion? Some of us would also start keeping track of the scores. But then, on 
 
 Extending this to adulthood, imagine if someone manages to alter data that's crucial, like bank balance. To safeguard agains this, blockchain technology uses the same concept as above. Everyone has a copy of all the transactions. Therefore, no one can is able to hack and alter the balance of any one person. It cannot be reflected back to so many people.
 
-
-
-
+---
 
 We've just managed to show how one can involve a 9-year-old into the said "complex" world of computer science. No concepts are hard to follow. Learning can always be made fun and inclusive. To conclude, it's when we can explain composite ideas in easy, intuitive ways, have we actually learnt them.
 
