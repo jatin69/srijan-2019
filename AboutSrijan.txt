@@ -1,0 +1,22 @@
+---
+author: Jatin
+status: 
+---
+
+Srijan means creation.
+Srijan is the annual magazine of Department of Computer Science, University of Delhi. It is launched every year at Sankalan.
+
+Srijan started with an aim to capture the tremendous advancements in technology and lay out a bigger picture in a few words.
+Since then, we have been trying to capture and highlight what happened in the past year and what lies ahead.
+Srijan aims at giving a complete roundup of the emerging tech within the field of computer science.
+
+Magazine also includes some ART, as we believe programming is an ART. And one who can program is an Artist at heart.
+
+This year, Srijan is kept open to all technologies around the world.
+Due to the advancement of technologies in different tech fields such as Artificial Intelligence, Machine Learning, 
+Networks and many more, we have included 
+all the current advancements in computer science around the world.
+Department of Computer Science takes immense pleasure to announce volume 9 of Srijan successfully, 
+with all new enthusiasm and zeal towards a new era of computer science.
+Along with Tech articles, Srijan'19 includes some poems, written by the students at DUCS and some glimpses of annual activities for freshers at DUCS, 
+such as Skit, Freshers, Diwali Night, Sankalan etc.  
