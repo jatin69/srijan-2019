@@ -63,8 +63,8 @@ An algorithm for primality checking of all types of numbers is also of theoretic
 
 Some amusing facts :
 
-> The largest prime found without using a computer is, (1/17)\*(2<sup>148</sup>+1) (a Proth number)by Aime Ferrier. He used a mechanical calculator and Proth’s theorem for this.
+> The largest prime found without using a computer is, (1/17)\*(2<sup>148</sup>+1) (a Proth number). It was found by Aime Ferrier, using a mechanical calculator and Proth’s theorem.
 
-> The largest prime checked just by hand calculations is 2<sup>127</sup>-1 by Lucas. Using his Lucas-Lehmer sequence.
+> The largest prime checked just by hand calculations is 2<sup>127</sup>-1. It was done by Lucas using his Lucas-Lehmer sequence.
 
 > It is difficult (but scientifically possible) to remember all the digits of the largest prime known till date in decimal by humans. But you may remember it in binary! 
